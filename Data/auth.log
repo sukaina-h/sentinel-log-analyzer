@@ -1,0 +1,78 @@
+2026-09-28T02:41:00 web01 sshd[10186]: Accepted password for erin from 10.0.0.14 port 57648 ssh2
+2026-09-28T03:12:00 web01 sshd[56159]: Failed password for root from 203.0.113.50 port 63270 ssh2
+2026-09-28T03:12:06 web01 sshd[40909]: Failed password for root from 203.0.113.50 port 43035 ssh2
+2026-09-28T03:12:12 web01 sshd[11016]: Failed password for root from 203.0.113.50 port 54504 ssh2
+2026-09-28T03:12:18 web01 sshd[50971]: Failed password for root from 203.0.113.50 port 40587 ssh2
+2026-09-28T03:12:24 web01 sshd[36348]: Failed password for root from 203.0.113.50 port 64757 ssh2
+2026-09-28T03:12:30 web01 sshd[1037]: Failed password for root from 203.0.113.50 port 51243 ssh2
+2026-09-28T03:12:36 web01 sshd[33021]: Failed password for root from 203.0.113.50 port 31276 ssh2
+2026-09-28T03:12:42 web01 sshd[8331]: Failed password for root from 203.0.113.50 port 53788 ssh2
+2026-09-28T03:12:48 web01 sshd[58587]: Failed password for root from 203.0.113.50 port 50153 ssh2
+2026-09-28T03:12:54 web01 sshd[16692]: Failed password for root from 203.0.113.50 port 33796 ssh2
+2026-09-28T03:13:00 web01 sshd[16785]: Failed password for root from 203.0.113.50 port 35161 ssh2
+2026-09-28T03:13:06 web01 sshd[6613]: Failed password for root from 203.0.113.50 port 61849 ssh2
+2026-09-28T03:13:12 web01 sshd[54478]: Failed password for root from 203.0.113.50 port 34535 ssh2
+2026-09-28T03:13:18 web01 sshd[50846]: Failed password for root from 203.0.113.50 port 64911 ssh2
+2026-09-28T03:13:24 web01 sshd[51189]: Failed password for root from 203.0.113.50 port 38241 ssh2
+2026-09-28T03:13:30 web01 sshd[9414]: Failed password for root from 203.0.113.50 port 61148 ssh2
+2026-09-28T03:13:36 web01 sshd[37031]: Failed password for root from 203.0.113.50 port 40821 ssh2
+2026-09-28T03:13:42 web01 sshd[18370]: Failed password for root from 203.0.113.50 port 64581 ssh2
+2026-09-28T03:13:48 web01 sshd[58175]: Failed password for root from 203.0.113.50 port 57730 ssh2
+2026-09-28T03:13:54 web01 sshd[14880]: Failed password for root from 203.0.113.50 port 43182 ssh2
+2026-09-28T03:14:00 web01 sshd[47723]: Failed password for root from 203.0.113.50 port 50428 ssh2
+2026-09-28T03:14:06 web01 sshd[27148]: Failed password for root from 203.0.113.50 port 54472 ssh2
+2026-09-28T03:14:12 web01 sshd[29711]: Failed password for root from 203.0.113.50 port 63919 ssh2
+2026-09-28T03:14:18 web01 sshd[30588]: Failed password for root from 203.0.113.50 port 37930 ssh2
+2026-09-28T03:14:24 web01 sshd[17246]: Failed password for root from 203.0.113.50 port 44725 ssh2
+2026-09-28T08:47:17 web01 sshd[10144]: Accepted password for alice from 10.0.0.10 port 36717 ssh2
+2026-09-28T09:48:03 web01 sshd[11016]: Accepted password for erin from 10.0.0.14 port 40484 ssh2
+2026-09-28T10:05:00 web01 sshd[5196]: Failed password for invalid user admin from 198.51.100.23 port 52156 ssh2
+2026-09-28T10:05:05 web01 sshd[2378]: Failed password for invalid user admin from 198.51.100.23 port 45080 ssh2
+2026-09-28T10:05:20 web01 sshd[39564]: Failed password for invalid user root from 198.51.100.23 port 44432 ssh2
+2026-09-28T10:05:25 web01 sshd[1471]: Failed password for invalid user root from 198.51.100.23 port 34652 ssh2
+2026-09-28T10:05:40 web01 sshd[47389]: Failed password for invalid user test from 198.51.100.23 port 33858 ssh2
+2026-09-28T10:05:45 web01 sshd[16003]: Failed password for invalid user test from 198.51.100.23 port 34417 ssh2
+2026-09-28T10:06:00 web01 sshd[3058]: Failed password for invalid user oracle from 198.51.100.23 port 51654 ssh2
+2026-09-28T10:06:05 web01 sshd[5643]: Failed password for invalid user oracle from 198.51.100.23 port 63695 ssh2
+2026-09-28T10:06:20 web01 sshd[16597]: Failed password for invalid user postgres from 198.51.100.23 port 48250 ssh2
+2026-09-28T10:06:25 web01 sshd[44842]: Failed password for invalid user postgres from 198.51.100.23 port 61812 ssh2
+2026-09-28T10:06:40 web01 sshd[15040]: Failed password for invalid user ubuntu from 198.51.100.23 port 38671 ssh2
+2026-09-28T10:06:45 web01 sshd[48405]: Failed password for invalid user ubuntu from 198.51.100.23 port 60976 ssh2
+2026-09-28T10:07:00 web01 sshd[16925]: Failed password for invalid user guest from 198.51.100.23 port 60996 ssh2
+2026-09-28T10:07:05 web01 sshd[53920]: Failed password for invalid user guest from 198.51.100.23 port 56677 ssh2
+2026-09-28T10:07:20 web01 sshd[13478]: Failed password for invalid user support from 198.51.100.23 port 36181 ssh2
+2026-09-28T10:07:25 web01 sshd[7352]: Failed password for invalid user support from 198.51.100.23 port 58249 ssh2
+2026-09-28T10:15:47 web01 sshd[18219]: Accepted password for dave from 10.0.0.13 port 58077 ssh2
+2026-09-28T10:23:22 web01 sshd[18496]: Accepted password for carol from 10.0.0.12 port 34679 ssh2
+2026-09-28T10:44:27 web01 sshd[11189]: Accepted password for bob from 10.0.0.11 port 44110 ssh2
+2026-09-28T11:14:32 web01 sshd[37781]: Accepted password for alice from 10.0.0.10 port 43031 ssh2
+2026-09-28T11:28:37 web01 sshd[57970]: Accepted password for bob from 10.0.0.11 port 30425 ssh2
+2026-09-28T11:55:06 web01 sshd[30714]: Accepted password for carol from 10.0.0.12 port 53909 ssh2
+2026-09-28T12:27:10 web01 sshd[48323]: Accepted password for erin from 10.0.0.14 port 47261 ssh2
+2026-09-28T13:06:05 web01 sshd[24526]: Accepted password for bob from 10.0.0.11 port 52541 ssh2
+2026-09-28T13:25:07 web01 sshd[38170]: Failed password for dave from 10.0.0.13 port 50622 ssh2
+2026-09-28T13:25:17 web01 sshd[14934]: Accepted password for dave from 10.0.0.13 port 62717 ssh2
+2026-09-28T13:53:49 web01 sshd[16010]: Accepted password for dave from 10.0.0.13 port 32103 ssh2
+2026-09-28T14:17:59 web01 sshd[37500]: Accepted password for dave from 10.0.0.13 port 44392 ssh2
+2026-09-28T14:30:00 db01 sshd[24219]: Failed password for dave from 192.0.2.77 port 57759 ssh2
+2026-09-28T14:30:10 db01 sshd[27941]: Failed password for dave from 192.0.2.77 port 60606 ssh2
+2026-09-28T14:30:20 db01 sshd[57612]: Failed password for dave from 192.0.2.77 port 33550 ssh2
+2026-09-28T14:30:30 db01 sshd[45129]: Failed password for dave from 192.0.2.77 port 36449 ssh2
+2026-09-28T14:30:40 db01 sshd[4972]: Failed password for dave from 192.0.2.77 port 56386 ssh2
+2026-09-28T14:30:50 db01 sshd[48724]: Failed password for dave from 192.0.2.77 port 52236 ssh2
+2026-09-28T14:31:00 db01 sshd[53467]: Failed password for dave from 192.0.2.77 port 37161 ssh2
+2026-09-28T14:31:10 db01 sshd[17295]: Failed password for dave from 192.0.2.77 port 42556 ssh2
+2026-09-28T14:31:35 db01 sshd[13465]: Accepted password for dave from 192.0.2.77 port 59400 ssh2
+2026-09-28T14:38:04 web01 sshd[40052]: Accepted password for erin from 10.0.0.14 port 60674 ssh2
+2026-09-28T14:56:58 web01 sshd[10363]: Accepted password for dave from 10.0.0.13 port 47359 ssh2
+2026-09-28T16:05:37 web01 sshd[2952]: Accepted password for alice from 10.0.0.10 port 36140 ssh2
+2026-09-28T16:16:35 web01 sshd[1752]: Accepted password for erin from 10.0.0.14 port 37507 ssh2
+2026-09-28T16:18:53 web01 sshd[59028]: Accepted password for bob from 10.0.0.11 port 53700 ssh2
+2026-09-28T16:48:11 web01 sshd[7973]: Accepted password for erin from 10.0.0.14 port 49558 ssh2
+2026-09-28T16:48:17 web01 sshd[23293]: Accepted password for erin from 10.0.0.14 port 37310 ssh2
+2026-09-28T17:12:35 web01 sshd[44336]: Failed password for bob from 10.0.0.11 port 44935 ssh2
+2026-09-28T17:12:45 web01 sshd[51663]: Accepted password for bob from 10.0.0.11 port 48965 ssh2
+2026-09-28T17:16:41 web01 sshd[31108]: Failed password for bob from 10.0.0.11 port 38180 ssh2
+2026-09-28T17:16:51 web01 sshd[25807]: Accepted password for bob from 10.0.0.11 port 35164 ssh2
+2026-09-28T17:25:23 web01 sshd[10065]: Accepted password for dave from 10.0.0.13 port 63392 ssh2
+2026-09-28T17:40:10 web01 sshd[17043]: Accepted password for carol from 10.0.0.12 port 40708 ssh2
